@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "title": "Standard Plates",
+      "image": "./images/plate.webp",
+      "price": 760,
+      "category": "Featured Products"
+    },
+
+    {
+      "id": 3,
+      "title": "2D Plates",
+      "image": "./images/plate.webp",
+      "price": 265,
+      "category": "Special Products"
+    },
+    {
+      "id": 4,
+      "title": "Standard Plates",
+      "image": "./images/plate.webp",
+      "price": 850,
+      "category": "Special Products"
+    },
+    {
+      "id": 8,
+      "title": "2D Plates",
+      "image": "./images/plate.webp",
+      "price": 290,
+      "category": "Featured Products"
+    },
+    {
+      "id": 5,
+      "title": "Standard Plates",
+      "image": "./images/plate.webp",
+      "price": 250,
+      "category": "Special Products"
+    },
+
+    {
+      "id": 7,
+      "title": "3D Plates",
+      "image": "./images/plate.webp",
+      "price": 365,
+      "category": "Featured Products"
+    },
+
+    {
+      "id": 10,
+      "title": "2D Plates",
+      "image": "./images/plate.webp",
+      "price": 385,
+      "category": "Trending Products"
+    },
+    {
+      "id": 11,
+      "title": "Standard Plates",
+      "image": "./images/plate.webp",
+      "price": 475,
+      "category": "Special Products"
+    }
+  ]
+}
